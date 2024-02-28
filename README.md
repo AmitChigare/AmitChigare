@@ -31,5 +31,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AmitChigare&theme=algolia&show_icons=true)](https://github.com/AmitChigare)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitChigare&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitChigare&hide=html,css&theme=tokyonight)
 
