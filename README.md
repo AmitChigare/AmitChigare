@@ -8,9 +8,9 @@
 
 <br>
 
-- 🔭 I’m currently working in Nirvin IT Solutions
+- 🔭 Interned in **Nirvin IT Solutions** and **Congruent Solutions Private Limited** for 6 months each
 
-- 🌱 I’m currently learning **TypeScript, NextJs**
+- 🌱 I’m currently working on **TypeScript, NextJs**
 
 - 💬 Ask me about **react, javascript, python, django**
 
